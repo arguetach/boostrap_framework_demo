@@ -1,0 +1,17 @@
+#letras{
+    color: aliceblue;
+}
+#nombre{
+    color: aliceblue;
+    padding: 20px;
+}
+#titulo{
+    text-align: center;
+    padding-top: 40px;
+}
+#pie{
+
+    text-align: center;
+    padding: 70px;
+
+}
